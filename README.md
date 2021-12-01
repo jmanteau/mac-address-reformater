@@ -12,9 +12,9 @@ This small utility is provided in several ways:
 
 | Type                                          | Status |                                                              |
 | --------------------------------------------- | ------ | ------------------------------------------------------------ |
-| [Alfred](https://www.alfredapp.com/) Workflow | ✅      | [Install Workflow](https://github.com/jmanteau/mac-address-reformater/raw/main/MAC%20Address%20Formating.alfredworkflow) <br/>[Source](alfred-mac-address-reformater) |
-| Python Script                                 | 🔧      | [Source](python-mac-address-reformater/mac-address-reformater.py) |
-| Executable Binary                             | 🔧      |                                                              |
+| [Alfred](https://www.alfredapp.com/) Workflow | ✅      | 🛠️ [Install Workflow](https://github.com/jmanteau/mac-address-reformater/raw/main/MAC%20Address%20Formating.alfredworkflow) <br/>📄 [Source](alfred-mac-address-reformater) |
+| Python Script                                 | 🚧      | 🐍 [Source](python-mac-address-reformater/mac-address-reformater.py) |
+| Executable Binary                             | 🚧      |                                                              |
 
 
 
