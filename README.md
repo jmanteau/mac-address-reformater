@@ -26,4 +26,7 @@ The list will then show you the different format converted. You can copy-paste i
 
 Here is an exemple of the tool in action:
 
-![image-20211201213741988](README.assets/image-20211201213741988.png)
+
+<p align="center">
+  <img src="README.assets/image-20211201213741988.png" />
+</p>
